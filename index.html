@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Turkey's Map</title>
+    <script type="text/javascript" src="d3/d3.v3.js"></script>
+    <script type="text/javascript" src="d3/topojson.v1.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Scope+One|Source+Sans+Pro|Fredoka+One|Averia+Sans+Libre" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+
+<body>
+
+    <h2 id="title">Interaktif Statistik PPI Turki #Bersinergi 2017</h2>
+
+    <div id="tooltip" class="hidden">
+        <h2><strong><span id="provinceName">Important Label heading</span></strong></h2>
+        <!-- <p><span id="value">100</span></p> -->
+    </div>
+
+
+
+    <div class="container">
+        <div id="mini-container">
+            <div id="welcome-note">
+                <div id="close-button">
+                    <img src="assets/img/close.svg">
+                </div>
+                <h3>Welcome Note</h3>
+                <p>Selamat datang di web page <span style="color: #9ad1a4"><strong>Interaktif Statistik PPI Turki #Bersinergi 2017</strong></span>. Web page ini dipersembahkan karena maraknya pertanyaan calon mahasiswa baru yang akan kuliah di Turki (khusunya)
+                    dan khalayak ramai (umumnya) tentang statistik jumlah pelajar Indonesia di Turki. Mulai dari pertanyaan tentang program studi apa yang paling banyak dipilih oleh pelajar Indonesia di Turki sampai pertanyaan mengenai populasi mahasiswa
+                    Indonesia di tiap universitas di Turki. Interaktif Statistik PPI Turki #Bersinergi 2017 kedepannya di harapkan mampu membantu pelajar Indonesia yang ingin melanjutkan studinya pada universitas di Turki.</p>
+                <p>Rincian fitur <span style="color: #9ad1a4"><strong>Interaktif Statistik PPI Turki #Bersinergi 2017 v 1.0</strong></span> :
+                    <br> - Pengguna dapat melihat statistik jumlah keseluruhan pelajar di Turki<br>- Pengguna dapat melihat statistik jumlah pelajar tiap provinsi di Turki
+                    <br>- Pengguna dapat melihat statistik jumlah ratio pelajar di suatu provinsi menurut rumpun program studi
+                    <br>- Pengguna dapat melihat universitas dan program studi dengan pelajar terbanyak di tiap provinsi di Turki
+                    <br>- Pengguna dapat melihat ratio antara pelajar perempuan dan laki-laki
+                </p>
+                <p><strong>Future implementations </strong>:
+                    <br>- Ratio mahasiswa menurut jalur pendidikan yang ditempuh (beasiswa)
+                    <br> - Search engine untuk mencari jumlah data menurut jurusan/universitas/kota
+                </p>
+                <p><span style="color: #9ad1a4"><strong>Interaktif Statistik PPI Turki #Bersinergi 2017</strong></span> dibangun menggunakan teknologi d3.js untuk visualisasinya dan Python's Jupyter-Notebook untuk membersihkan serta mengkurasi data. Sumber
+                    data, datbase PPI Turki 2016 dan scraping data melalui internet. Icon diunduh dari <a href="http://flaticon.com">FlatIcon</a>. Hosted in <a href="http://github.com">Github</a>. Untuk memulai silahkan mengklik tombol close, selamat
+                    bereksplorasi!</p>
+            </div>
+            <div id="table">
+            </div>
+            <div id="button-list">
+                <img id="show-uni-location" title="Tampilkan universitas" src="assets/img/loc.svg">
+                <img id="viz-by-all" title="Visualisasikan menurut populasi keseluruhan" src="assets/img/uni.svg">
+                <img id="viz-by-ratioLaki" title="Visualisasikan menurut populasi Laki-Laki" src="assets/img/boy.svg">
+                <img id="viz-by-ratioPuan" title="Visualisasikan menurut populasi Perempuan" src="assets/img/girl.svg">
+                <img id="viz-by-saintek" title="Visualisasikan menurut rumpun saintek" src="assets/img/stem.svg">
+                <img id="viz-by-humaniora" title="Visualisasikan menurut rumpun humaniora" src="assets/img/humanity.svg">
+                <img id="viz-by-pendidikan" title="Visualisasikan menurut rumpun pendidikan" src="assets/img/education.svg">
+                <img id="viz-by-bahasa" title="Visualisasikan menurut rumpun bahasa" src="assets/img/literature.svg">
+                <img id="viz-by-tomer" title="Visualisasikan menurut tomer" src="assets/img/tomer.svg">
+                <!-- <img src="assets/img/religious.svg"> -->
+            </div>
+        </div>
+
+        <div id="desc">
+            <div id="stats">
+                <h3 id="stats-name">Turki (Keseluruhan)</h3>
+                <ul>
+                    <li><strong>Populasi Mahasiswa Indonesia</strong></br><span id="stats-population">801</span>
+                    </li>
+                    <li><strong>Jumlah Mahasiswa L/P</strong></br><span>Laki - Laki: </span><span id="stats-gender-laki">0</span><span> (</span><span id="stats-gender-laki-persen">0</span><span>%)</span></br><span>Perempuan: </span><span id="stats-gender-puan">0</span><span> (</span>
+                        <span id="stats-gender-puan-persen">0</span><span>%)</span>
+                    </li>
+                    <!-- <li><strong>Rumpun Studi</strong></br>Humaniora: <span id="stats-humaniora">12</span></br>Saintek: <span id="stats-saintek">12</span></br>Pendidika: <span id="stats-pendidikan">12</span></br>Agama: <span id="stats-agama">12</span></br>Bahasa:
+                        <span id="stats-bahasa">12</span>
+                    </li> -->
+
+                    <li><strong>3 Universitas dengan Mahasiswa Terbanyak</strong></br><span id="stats-uni-most-1">Middle East Technical University </span><span> (</span><span id="stats-uni-most-1-population">8</span><span>%)</span></br><span id="stats-uni-most-2">İstanbul Technical University </span>                        <span> (</span>
+                        <span id="stats-uni-most-2-population">5</span><span>%)</span></br><span id="stats-uni-most-3">Kastamonu University </span><span> (</span><span id="stats-uni-most-3-population">5</span><span>%)</span>
+                    </li>
+
+
+                    <li><strong>3 Program Studi dengan Mahasiswa Terbanyak</strong></br><span id="stats-major-most-1">Teologi </span><span> (</span><span id="stats-major-most-1-population">9</span><span>%)</span></br><span id="stats-major-most-2">Hubungan Internasional </span>                        <span> (</span>
+                        <span id="stats-major-most-2-population">5</span><span>%)</span></br><span id="stats-major-most-3">Teknik Komputer </span><span> (</span><span id="stats-major-most-3-population">4</span><span>%)</span>
+                    </li>
+
+                    <li><strong>Persentase Mahasiswa menurut Rumpun Program Studi</strong></br><span id="stats-hum">Humaniora : <span id="stats-rumpun-hum">156</span></span d="stats-hum"><span> (</span><span id="stats-rumpun-hum-percent">20</span>
+                        <span d="stats-hum">%)</span>
+                        </br>
+                        <span id="stats-saintek">Saintek : <span id="stats-rumpun-sai">316</span></span>
+                        <span> (</span><span id="stats-rumpun-sai-percent">39</span>
+                        <span>%)</span>
+                        </br><span id="stats-agama">Agama : <span id="stats-rumpun-aga">195</span></span><span> (</span><span id="stats-rumpun-aga-percent">24</span><span>%)</span></br>
+                        <span id="stats-pendidikan">Pendidikan : <span id="stats-rumpun-pen">48</span></span>
+                        <span>(</span><span id="stats-rumpun-pen-percent">6</span><span>%)</span></br><span id="stats-bahasa">Bahasa : <span id="stats-rumpun-bah">19</span></span><span> (</span><span id="stats-rumpun-bah-percent">2</span><span>%)</span></br>
+                        <span id="stats-TOMER">TÖMER : <span id="stats-rumpun-tom">15</span></span>
+                        <span> (</span><span id="stats-rumpun-tom-percent">2</span><span>%)</span>
+                    </li>
+
+
+                </ul>
+
+            </div>
+
+            <!--
+            <div id="pie-chart">
+            </div>
+            -->
+        </div>
+    </div>
+    <footer>Copyright by <strong>Dept. Informasi, Komunikasi dan Media</strong> PPI Turki #Bersinergi 2017.</footer>
+    <script type="text/javascript" src="main.js">
+    </script>
+</body>
+
+</html>

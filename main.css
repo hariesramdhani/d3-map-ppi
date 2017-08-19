@@ -1,0 +1,196 @@
+body {
+    font-family: "Source Sans Pro";
+    background-color: #182a37;
+    color: white;
+}
+
+#tooltip {
+    position: absolute;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    pointer-events: none;
+}
+
+#tooltip.hidden {
+    display: none;
+}
+
+#tooltip h2 {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: white;
+}
+
+#tooltip p {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 10px;
+    color: white;
+}
+
+.container {
+    width: 1200px;
+    height: 525px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#mini-container {
+    margin-left: 40px;
+    height: 450px;
+    width: 800px;
+    display: inline-block;
+}
+
+#table {
+    vertical-align: middle;
+}
+
+#title {
+    text-align: center;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2#title {
+    font-size: 36px;
+    width: 800px;
+    font-family: 'Averia Sans Libre', 'Scope One';
+}
+
+#desc {
+    vertical-align: top;
+    width: 300px;
+    height: 450px;
+    display: inline-block;
+}
+
+#stats {
+    height: 400px;
+    /* background-color: green; */
+}
+
+#pie-chart {
+    height: 100px;
+    background-color: greenyellow;
+}
+
+h3 {
+    margin: 0px;
+    font-size: 25px;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Averia Sans Libre';
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+    margin-left: 10px;
+}
+
+li {
+    font-size: 14px;
+    list-style: none;
+    margin-bottom: 10px;
+    color: #9ad1a4;
+}
+
+circle:hover {
+    opacity: 0.1;
+}
+
+svg {
+    border: 2px stroke black;
+    border-radius: 10px;
+}
+
+#stats span {
+    font-size: 12px;
+    color: white;
+}
+
+.province {
+    cursor: pointer;
+}
+
+#button-list {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 2px;
+    width: auto;
+    border-radius: 10px;
+}
+
+#button-list img {
+    width: 25px;
+    margin: 0 2px;
+    cursor: pointer;
+}
+
+#button-list img:hover {
+    transform: scale(1.2, 1.2);
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+    font-family: "Averia Sans Libre";
+    width: 900px;
+    margin: 0 auto;
+}
+
+#welcome-note {
+    position: fixed;
+    text-align: center;
+    z-index: 100;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 450px;
+    width: 800px;
+    z-index: 100;
+    font-size: 1.7vw;
+    /* visibility: hidden; */
+}
+
+#welcome-note h3 {
+    padding: 10px;
+}
+
+#welcome-note #close-button {
+    width: 25px;
+    position: absolute;
+    padding: 10px;
+    right: 0px;
+    cursor: pointer;
+}
+
+#welcome-note #close-button:hover {
+    transform: scale(1.2, 1.2);
+}
+
+#welcome-note p {
+    font-size: 14px;
+    margin: 0 30px 10px 30px;
+    text-align: justify;
+}
+
+
+/* 
+#welcome-note ul {
+    font-size: 14px;
+    text-align: justify;
+    margin: 0px;
+} */
+
+a {
+    text-decoration: none;
+    color: #4F6CC3;
+    font-weight: bold;
+}

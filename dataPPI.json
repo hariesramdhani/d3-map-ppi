@@ -1,0 +1,1706 @@
+[{
+    "Nama": "Ankara",
+    "Populasi": 211,
+    "Gender": {
+        "L": 169,
+        "P": 42
+    },
+    "Jenjang": {
+        "S1": 115,
+        "S2": 16,
+        "S3": 11,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 1,
+        "Mandiri": 30,
+        "Pemerintah Kaltim": 7,
+        "Menteri Agama": 42,
+        "PASIAD": 67,
+        "TUBITAK": 3,
+        "Universitas": 1,
+        "YTB": 49,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 44,
+        "Bahasa": 1,
+        "Humaniora": 30,
+        "Pendidikan": 21,
+        "Saintek": 82,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Middle East Technical University",
+        "Populasi": 63
+    }, {
+        "Univ": "Sulaymaniye Kultur Sitesi",
+        "Populasi": 42
+    }, {
+        "Univ": "Hacettepe University",
+        "Populasi": 32
+    }],
+    "Jurusan": [{
+        "Nama": "Qobla Tekamul",
+        "Populasi": 18
+    }, {
+        "Nama": "Hubungan Internasional",
+        "Populasi": 11
+    }, {
+        "Nama": "Ibtidai",
+        "Populasi": 10
+    }]
+}, {
+    "Nama": "İstanbul",
+    "Populasi": 182,
+    "Gender": {
+        "L": 115,
+        "P": 66
+    },
+    "Jenjang": {
+        "S1": 102,
+        "S2": 29,
+        "S3": 13,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 14,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 44,
+        "TUBITAK": 1,
+        "Universitas": 2,
+        "YTB": 69,
+        "Suleymaniye": 0,
+        "Khayrat": 4,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 24,
+        "Bahasa": 3,
+        "Humaniora": 56,
+        "Pendidikan": 10,
+        "Saintek": 77,
+        "Tomer": 9
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Istanbul Technical University",
+        "Populasi": 43
+    }, {
+        "Univ": "Istanbul University",
+        "Populasi": 41
+    }, {
+        "Univ": "Marmara University",
+        "Populasi": 39
+    }],
+    "Jurusan": [{
+        "Nama": "Hubungan Internasional",
+        "Populasi": 14
+    }, {
+        "Nama": "Teologi",
+        "Populasi": 12
+    }, {
+        "Nama": "Teknik Komputer",
+        "Populasi": 10
+    }]
+}, {
+    "Nama": "Kayseri",
+    "Populasi": 56,
+    "Gender": {
+        "L": 40,
+        "P": 16
+    },
+    "Jenjang": {
+        "S1": 41,
+        "S2": 2,
+        "S3": 3,
+        "SMA": 10,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 0,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 28,
+        "Bahasa": 2,
+        "Humaniora": 9,
+        "Pendidikan": 2,
+        "Saintek": 15,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Erciyes University",
+        "Populasi": 35
+    }, {
+        "Univ": "Mustafa Gemirli Imam Hatip Lisesi",
+        "Populasi": 10
+    }, {
+        "Univ": "Melikşah TÖMER",
+        "Populasi": 7
+    }],
+    "Jurusan": [{
+        "Nama": "Teologi",
+        "Populasi": 18
+    }, {
+        "Nama": "Hubungan Internasional",
+        "Populasi": 4
+    }, {
+        "Nama": "Kimia",
+        "Populasi": 4
+    }]
+}, {
+    "Nama": "Kastamonu",
+    "Populasi": 42,
+    "Gender": {
+        "L": 25,
+        "P": 17
+    },
+    "Jenjang": {
+        "S1": 41,
+        "S2": 1,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 42,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 0,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 9,
+        "Bahasa": 0,
+        "Humaniora": 12,
+        "Pendidikan": 3,
+        "Saintek": 18,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Kastamonu University",
+        "Populasi": 42
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Teologi",
+        "Populasi": 9
+    }, {
+        "Nama": "Teknik Lingkungan",
+        "Populasi": 5
+    }, {
+        "Nama": "Manajemen",
+        "Populasi": 3
+    }]
+}, {
+    "Nama": "Bursa",
+    "Populasi": 41,
+    "Gender": {
+        "L": 21,
+        "P": 20
+    },
+    "Jenjang": {
+        "S1": 34,
+        "S2": 6,
+        "S3": 1,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 2,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 24,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 15,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 10
+    },
+    "Rumpun": {
+        "Agama": 12,
+        "Bahasa": 1,
+        "Humaniora": 8,
+        "Pendidikan": 5,
+        "Saintek": 15,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Uludağ University",
+        "Populasi": 36
+    }, {
+        "Univ": "Bursa Orhangazi University",
+        "Populasi": 5
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Teologi",
+        "Populasi": 10
+    }, {
+        "Nama": "Biologi",
+        "Populasi": 5
+    }, {
+        "Nama": "Pendidikan Bahasa Inggris",
+        "Populasi": 4
+    }]
+}, {
+    "Nama": "Konya",
+    "Populasi": 36,
+    "Gender": {
+        "L": 29,
+        "P": 7
+    },
+    "Jenjang": {
+        "S1": 17,
+        "S2": 5,
+        "S3": 4,
+        "SMA": 10,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 2,
+        "Pemerintah Kaltim": 1,
+        "Menteri Agama": 0,
+        "PASIAD": 4,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 19,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 13,
+        "Bahasa": 2,
+        "Humaniora": 11,
+        "Pendidikan": 0,
+        "Saintek": 10,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Selcuk University",
+        "Populasi": 20
+    }, {
+        "Univ": "Mevlana Uluslararası İmam Hatip Lisesi",
+        "Populasi": 10
+    }, {
+        "Univ": "Necmettin Erbakan University",
+        "Populasi": 5
+    }],
+    "Jurusan": [{
+        "Nama": "SMA",
+        "Populasi": 10
+    }, {
+        "Nama": "Jurnalistik",
+        "Populasi": 3
+    }, {
+        "Nama": "Teologi",
+        "Populasi": 2
+    }]
+}, {
+    "Nama": "Afyon",
+    "Populasi": 2,
+    "Gender": {
+        "L": 1,
+        "P": 1
+    },
+    "Jenjang": {
+        "S1": 2,
+        "S2": 0,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 2,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 0,
+        "Bahasa": 0,
+        "Humaniora": 0,
+        "Pendidikan": 0,
+        "Saintek": 2,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Afyon Kocatepe University",
+        "Populasi": 2
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Teknik Pertambangan",
+        "Populasi": 1
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }]
+}, {
+    "Nama": "Sakarya",
+    "Populasi": 36,
+    "Gender": {
+        "L": 25,
+        "P": 11
+    },
+    "Jenjang": {
+        "S1": 23,
+        "S2": 7,
+        "S3": 2,
+        "SMA": 2,
+        "SMP": 1
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 13,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 23,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 14,
+        "Bahasa": 1,
+        "Humaniora": 6,
+        "Pendidikan": 0,
+        "Saintek": 5,
+        "Tomer": 10
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Sakarya University",
+        "Populasi": 24
+    }, {
+        "Univ": "Süleymaniye Kur'an Kursu",
+        "Populasi": 8
+    }, {
+        "Univ": "İmam Hatip Lisesi",
+        "Populasi": 3
+    }],
+    "Jurusan": [{
+        "Nama": "TÖMER",
+        "Populasi": 10
+    }, {
+        "Nama": "Kur'an Kursu",
+        "Populasi": 9
+    }, {
+        "Nama": "Hubungan Internasional",
+        "Populasi": 2
+    }]
+}, {
+    "Nama": "Samsun",
+    "Populasi": 35,
+    "Gender": {
+        "L": 28,
+        "P": 7
+    },
+    "Jenjang": {
+        "S1": 33,
+        "S2": 1,
+        "S3": 0,
+        "SMA": 1,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 3,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 12,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 5,
+        "Suleymaniye": 15,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 23,
+        "Bahasa": 0,
+        "Humaniora": 1,
+        "Pendidikan": 1,
+        "Saintek": 10,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "On Dokuz Mayıs University",
+        "Populasi": 19
+    }, {
+        "Univ": "Pesantren",
+        "Populasi": 15
+    }, {
+        "Univ": "Feza Berk Koleji",
+        "Populasi": 1
+    }],
+    "Jurusan": [{
+        "Nama": "Agama",
+        "Populasi": 22
+    }, {
+        "Nama": "Biologi",
+        "Populasi": 4
+    }, {
+        "Nama": "Kimia",
+        "Populasi": 1
+    }]
+}, {
+    "Nama": "Trabzon",
+    "Populasi": 34,
+    "Gender": {
+        "L": 25,
+        "P": 9
+    },
+    "Jenjang": {
+        "S1": 32,
+        "S2": 1,
+        "S3": 1,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 2,
+        "Menteri Agama": 0,
+        "PASIAD": 17,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 8,
+        "Suleymaniye": 7,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 12,
+        "Bahasa": 0,
+        "Humaniora": 0,
+        "Pendidikan": 2,
+        "Saintek": 20,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Karadeniz Technical University",
+        "Populasi": 27
+    }, {
+        "Univ": "Süleymaniye Kur'an Kursu",
+        "Populasi": 7
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Teologi",
+        "Populasi": 5
+    }, {
+        "Nama": " Biologi",
+        "Populasi": 3
+    }, {
+        "Nama": "Kimia",
+        "Populasi": 3
+    }]
+}, {
+    "Nama": "İzmir",
+    "Populasi": 29,
+    "Gender": {
+        "L": 22,
+        "P": 7
+    },
+    "Jenjang": {
+        "S1": 16,
+        "S2": 8,
+        "S3": 1,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 5,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 4,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 15,
+        "Suleymaniye": 4,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 5,
+        "Bahasa": 1,
+        "Humaniora": 7,
+        "Pendidikan": 0,
+        "Saintek": 16,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Dokuz Eylül University",
+        "Populasi": 10
+    }, {
+        "Univ": "Ege University",
+        "Populasi": 10
+    }, {
+        "Univ": "Uğur Kur'an Kursu",
+        "Populasi": 4
+    }],
+    "Jurusan": [{
+        "Nama": "Teknik Sipil",
+        "Populasi": 3
+    }, {
+        "Nama": "Matematika",
+        "Populasi": 3
+    }, {
+        "Nama": "Teknik Komputer",
+        "Populasi": 2
+    }]
+}, {
+    "Nama": "Kocaeli",
+    "Populasi": 16,
+    "Gender": {
+        "L": 14,
+        "P": 2
+    },
+    "Jenjang": {
+        "S1": 9,
+        "S2": 2,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 2,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 7,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 0,
+        "Bahasa": 0,
+        "Humaniora": 5,
+        "Pendidikan": 0,
+        "Saintek": 10,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Kocaeli University",
+        "Populasi": 13
+    }, {
+        "Univ": "Gebze Technical University",
+        "Populasi": 3
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Hubungan Internasional",
+        "Populasi": 2
+    }, {
+        "Nama": "Biologi Molekuler dan Genetika",
+        "Populasi": 2
+    }, {
+        "Nama": "Arsitektur",
+        "Populasi": 1
+    }]
+}, {
+    "Nama": "Eskişehir",
+    "Populasi": 14,
+    "Gender": {
+        "L": 10,
+        "P": 4
+    },
+    "Jenjang": {
+        "S1": 4,
+        "S2": 2,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 3,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 7,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 0,
+        "Bahasa": 0,
+        "Humaniora": 0,
+        "Pendidikan": 0,
+        "Saintek": 0,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Anadolu University",
+        "Populasi": 11
+    }, {
+        "Univ": "Eskişehir Osmangazı University",
+        "Populasi": 3
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "-",
+        "Populasi": 0
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }]
+}, {
+    "Nama": "Adana",
+    "Populasi": 10,
+    "Gender": {
+        "L": 6,
+        "P": 4
+    },
+    "Jenjang": {
+        "S1": 8,
+        "S2": 1,
+        "S3": 1,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 6,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 3,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 2,
+        "Bahasa": 0,
+        "Humaniora": 1,
+        "Pendidikan": 2,
+        "Saintek": 5,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Çukurova University",
+        "Populasi": 10
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Teknik Komputer",
+        "Populasi": 2
+    }, {
+        "Nama": "Teologi",
+        "Populasi": 2
+    }, {
+        "Nama": "Manajemen",
+        "Populasi": 1
+    }]
+}, {
+    "Nama": "Bolu",
+    "Populasi": 10,
+    "Gender": {
+        "L": 6,
+        "P": 4
+    },
+    "Jenjang": {
+        "S1": 10,
+        "S2": 0,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 8,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 2,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 0,
+        "Bahasa": 1,
+        "Humaniora": 1,
+        "Pendidikan": 1,
+        "Saintek": 7,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Abant İzzet Baysal University",
+        "Populasi": 10
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Biologi",
+        "Populasi": 4
+    }, {
+        "Nama": "Bahasa Turki",
+        "Populasi": 1
+    }, {
+        "Nama": "Fisika",
+        "Populasi": 1
+    }]
+}, {
+    "Nama": "Urla",
+    "Populasi": 9,
+    "Gender": {
+        "L": 7,
+        "P": 2
+    },
+    "Jenjang": {
+        "S1": 8,
+        "S2": 1,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 7,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 2,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 0,
+        "Bahasa": 0,
+        "Humaniora": 0,
+        "Pendidikan": 0,
+        "Saintek": 9,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "İzmir Institute of Technology",
+        "Populasi": 9
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Kimia",
+        "Populasi": 3
+    }, {
+        "Nama": "Matematika",
+        "Populasi": 3
+    }, {
+        "Nama": "Fisika",
+        "Populasi": 1
+    }]
+}, {
+    "Nama": "Malatya",
+    "Populasi": 7,
+    "Gender": {
+        "L": 6,
+        "P": 1
+    },
+    "Jenjang": {
+        "S1": 7,
+        "S2": 0,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 0,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 3,
+        "Bahasa": 1,
+        "Humaniora": 0,
+        "Pendidikan": 0,
+        "Saintek": 3,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "İnonu University",
+        "Populasi": 7
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Teologi",
+        "Populasi": 3
+    }, {
+        "Nama": "Sastra Turki",
+        "Populasi": 1
+    }, {
+        "Nama": "Kedokteran",
+        "Populasi": 1
+    }]
+}, {
+    "Nama": "Erzurum",
+    "Populasi": 7,
+    "Gender": {
+        "L": 4,
+        "P": 3
+    },
+    "Jenjang": {
+        "S1": 5,
+        "S2": 2,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 2,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 5,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 3,
+        "Bahasa": 0,
+        "Humaniora": 0,
+        "Pendidikan": 0,
+        "Saintek": 4,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Atatürk University",
+        "Populasi": 7
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Teologi",
+        "Populasi": 3
+    }, {
+        "Nama": "Biologi",
+        "Populasi": 1
+    }, {
+        "Nama": "Kebidanan",
+        "Populasi": 1
+    }]
+}, {
+    "Nama": "Denizli",
+    "Populasi": 6,
+    "Gender": {
+        "L": 6,
+        "P": 0
+    },
+    "Jenjang": {
+        "S1": 6,
+        "S2": 0,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 1,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 1,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 3,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 0,
+        "Bahasa": 0,
+        "Humaniora": 3,
+        "Pendidikan": 0,
+        "Saintek": 2,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Pamukkale University",
+        "Populasi": 6
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Administrasi Bisnis",
+        "Populasi": 3
+    }, {
+        "Nama": "Teknik Lingkungan",
+        "Populasi": 2
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }]
+}, {
+    "Nama": "İsparta",
+    "Populasi": 4,
+    "Gender": {
+        "L": 4,
+        "P": 0
+    },
+    "Jenjang": {
+        "S1": 3,
+        "S2": 0,
+        "S3": 1,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 4,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 1,
+        "Bahasa": 1,
+        "Humaniora": 2,
+        "Pendidikan": 0,
+        "Saintek": 0,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Süleyman Demirel University",
+        "Populasi": 4
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Sastra Turki",
+        "Populasi": 1
+    }, {
+        "Nama": "Ekonomi",
+        "Populasi": 1
+    }, {
+        "Nama": "Filsafat",
+        "Populasi": 1
+    }]
+}, {
+    "Nama": "Aydın",
+    "Populasi": 4,
+    "Gender": {
+        "L": 3,
+        "P": 1
+    },
+    "Jenjang": {
+        "S1": 4,
+        "S2": 0,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 2,
+        "Pemerintah Kaltim": 1,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 0,
+        "Suleymaniye": 0,
+        "Khayrat": 1,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 0,
+        "Bahasa": 0,
+        "Humaniora": 1,
+        "Pendidikan": 0,
+        "Saintek": 3,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Adnan Menderes University",
+        "Populasi": 4
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Teknik Mesin",
+        "Populasi": 2
+    }, {
+        "Nama": "Kedokteran",
+        "Populasi": 1
+    }, {
+        "Nama": "Hubungan Internasional",
+        "Populasi": 1
+    }]
+}, {
+    "Nama": "Çanakkale",
+    "Populasi": 3,
+    "Gender": {
+        "L": 1,
+        "P": 2
+    },
+    "Jenjang": {
+        "S1": 2,
+        "S2": 1,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 3,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 1,
+        "Bahasa": 0,
+        "Humaniora": 1,
+        "Pendidikan": 1,
+        "Saintek": 0,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Çanakkale Onsekiz Mart University",
+        "Populasi": 3
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Hubungan İnternasional",
+        "Populasi": 1
+    }, {
+        "Nama": "Pendidikan Bahasa Turki",
+        "Populasi": 1
+    }, {
+        "Nama": "Teologi",
+        "Populasi": 1
+    }]
+}, {
+    "Nama": "Balıkesir",
+    "Populasi": 1,
+    "Gender": {
+        "L": 1,
+        "P": 0
+    },
+    "Jenjang": {
+        "S1": 1,
+        "S2": 0,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 1,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 0,
+        "Bahasa": 0,
+        "Humaniora": 0,
+        "Pendidikan": 0,
+        "Saintek": 1,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Balıkesir University",
+        "Populasi": 1
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Kedokteran",
+        "Populasi": 1
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }]
+}, {
+    "Nama": "Manisa",
+    "Populasi": 1,
+    "Gender": {
+        "L": 1,
+        "P": 0
+    },
+    "Jenjang": {
+        "S1": 1,
+        "S2": 0,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 1,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 0,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 0,
+        "Bahasa": 1,
+        "Humaniora": 0,
+        "Pendidikan": 0,
+        "Saintek": 0,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Celal Bayar University",
+        "Populasi": 1
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Sastra Inggris",
+        "Populasi": 1
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }]
+}, {
+    "Nama": "Kırıkkale",
+    "Populasi": 1,
+    "Gender": {
+        "L": 1,
+        "P": 0
+    },
+    "Jenjang": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 1,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 0,
+        "Bahasa": 0,
+        "Humaniora": 0,
+        "Pendidikan": 0,
+        "Saintek": 0,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Kırıkkale University",
+        "Populasi": 1
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "-",
+        "Populasi": 0
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }]
+}, {
+    "Nama": "Sivas",
+    "Populasi": 1,
+    "Gender": {
+        "L": 1,
+        "P": 0
+    },
+    "Jenjang": {
+        "S1": 1,
+        "S2": 0,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 0,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 1,
+        "Bahasa": 0,
+        "Humaniora": 0,
+        "Pendidikan": 0,
+        "Saintek": 0,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Cumhuriyet University",
+        "Populasi": 1
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Teologi",
+        "Populasi": 1
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }]
+}, {
+    "Nama": "Zonguldak",
+    "Populasi": 1,
+    "Gender": {
+        "L": 0,
+        "P": 1
+    },
+    "Jenjang": {
+        "S1": 1,
+        "S2": 0,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 1,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 0,
+        "Bahasa": 0,
+        "Humaniora": 1,
+        "Pendidikan": 0,
+        "Saintek": 0,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Bülent Ecevit University",
+        "Populasi": 1
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Bisnis Administrasi",
+        "Populasi": 1
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }]
+}, {
+    "Nama": "Yalova",
+    "Populasi": 1,
+    "Gender": {
+        "L": 1,
+        "P": 0
+    },
+    "Jenjang": {
+        "S1": 1,
+        "S2": 0,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 1,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 1,
+        "Bahasa": 0,
+        "Humaniora": 0,
+        "Pendidikan": 0,
+        "Saintek": 0,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Yalova University",
+        "Populasi": 1
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Teologi",
+        "Populasi": 1
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }]
+}, {
+    "Nama": "Gaziantep",
+    "Populasi": 12,
+    "Gender": {
+        "L": 0,
+        "P": 0
+    },
+    "Jenjang": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 0,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 0,
+        "Bahasa": 0,
+        "Humaniora": 0,
+        "Pendidikan": 0,
+        "Saintek": 0,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Gaziantep University",
+        "Populasi": 12
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "-",
+        "Populasi": 0
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }]
+}, {
+    "Nama": "Antalya",
+    "Populasi": 4,
+    "Gender": {
+        "L": 0,
+        "P": 0
+    },
+    "Jenjang": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 0,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 0,
+        "Bahasa": 0,
+        "Humaniora": 0,
+        "Pendidikan": 0,
+        "Saintek": 0,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "-",
+        "Populasi": 0
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }]
+}, {
+    "Nama": "Edirne",
+    "Populasi": 2,
+    "Gender": {
+        "L": 2,
+        "P": 0
+    },
+    "Jenjang": {
+        "S1": 2,
+        "S2": 0,
+        "S3": 0,
+        "SMA": 0,
+        "SMP": 0
+    },
+    "Jalur": {
+        "Dikti": 0,
+        "Mandiri": 0,
+        "Pemerintah Kaltim": 0,
+        "Menteri Agama": 0,
+        "PASIAD": 0,
+        "TUBITAK": 0,
+        "Universitas": 0,
+        "YTB": 2,
+        "Suleymaniye": 0,
+        "Khayrat": 0,
+        "Diyanet Vakfi": 0
+    },
+    "Rumpun": {
+        "Agama": 0,
+        "Bahasa": 0,
+        "Humaniora": 0,
+        "Pendidikan": 0,
+        "Saintek": 2,
+        "Tomer": 0
+    },
+    "Mahasiswa Terbanyak": [{
+        "Univ": "Trakya University",
+        "Populasi": 2
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }, {
+        "Univ": "-",
+        "Populasi": 0
+    }],
+    "Jurusan": [{
+        "Nama": "Kedokteran",
+        "Populasi": 1
+    }, {
+        "Nama": "Teknik Komputer",
+        "Populasi": 1
+    }, {
+        "Nama": "-",
+        "Populasi": 0
+    }]
+}]
